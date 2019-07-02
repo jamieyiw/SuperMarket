@@ -1,0 +1,13 @@
+C:\src\core\SuperMarket.API\bin\Debug\netcoreapp2.1\SuperMarket.API.deps.json
+C:\src\core\SuperMarket.API\bin\Debug\netcoreapp2.1\SuperMarket.API.runtimeconfig.json
+C:\src\core\SuperMarket.API\bin\Debug\netcoreapp2.1\SuperMarket.API.runtimeconfig.dev.json
+C:\src\core\SuperMarket.API\bin\Debug\netcoreapp2.1\SuperMarket.API.dll
+C:\src\core\SuperMarket.API\bin\Debug\netcoreapp2.1\SuperMarket.API.pdb
+C:\src\core\SuperMarket.API\obj\Debug\netcoreapp2.1\SuperMarket.API.csproj.CoreCompileInputs.cache
+C:\src\core\SuperMarket.API\obj\Debug\netcoreapp2.1\SuperMarket.API.RazorAssemblyInfo.cache
+C:\src\core\SuperMarket.API\obj\Debug\netcoreapp2.1\SuperMarket.API.RazorAssemblyInfo.cs
+C:\src\core\SuperMarket.API\obj\Debug\netcoreapp2.1\SuperMarket.API.AssemblyInfoInputs.cache
+C:\src\core\SuperMarket.API\obj\Debug\netcoreapp2.1\SuperMarket.API.AssemblyInfo.cs
+C:\src\core\SuperMarket.API\obj\Debug\netcoreapp2.1\SuperMarket.API.RazorTargetAssemblyInfo.cache
+C:\src\core\SuperMarket.API\obj\Debug\netcoreapp2.1\SuperMarket.API.dll
+C:\src\core\SuperMarket.API\obj\Debug\netcoreapp2.1\SuperMarket.API.pdb
